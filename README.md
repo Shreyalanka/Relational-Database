@@ -1,6 +1,6 @@
-### Relational Database Certification
+## Relational Database Certification
 
-## Overview
+### Overview
 - **VS Code**: Set up and use Visual Studio Code for development.
 - **PostgreSQL**: Learn to create and manage relational databases with PostgreSQL and SQL.
 - **Linux/Unix Command Line**: Master Bash commands to navigate, script, and manage the file system.
