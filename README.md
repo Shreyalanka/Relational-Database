@@ -1,4 +1,4 @@
-## Relational Database Certification
+# Relational Database Certification
 
 ### Overview
 - **VS Code**: Set up and use Visual Studio Code for development.
