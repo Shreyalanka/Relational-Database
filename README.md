@@ -6,7 +6,7 @@
 - **Linux/Unix Command Line**: Master Bash commands to navigate, script, and manage the file system.
 - **Git**: Understand version control fundamentals, best practices, and collaboration workflows.
 
-# 1. Bash Script Programs:
+# 1. **Bash Script Programs**:
      - Bash scripts combine terminal commands and logic into programs that can execute or automate tasks
 
 # 2. Bike Rental Shop Database:
